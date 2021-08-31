@@ -1,0 +1,1 @@
+# FInd_Anime_details_app
